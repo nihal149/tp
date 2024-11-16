@@ -3,7 +3,11 @@ Application Spring Boot pour gérer les informations des étudiants via une API 
 
 **Fonctionnalités**:
  -Gestion des étudiants : ajout, modification, suppression et consultation.
+
+ 
 -Architecture MVC avec séparation des couches (Controller, Service, Repository).
+
+
 -Tests unitaires avec JUnit et MockMvc.
 
 
